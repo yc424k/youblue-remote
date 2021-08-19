@@ -1,3 +1,4 @@
 # youblue-remote
 
-from 6 & 7+
+from 6+ & 7+
+
